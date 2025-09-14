@@ -2,6 +2,8 @@
 
 A classic Snake game built using HTML, CSS, and JavaScript. This simple game allows players to control a snake, guiding it to eat food and grow longer while avoiding collisions with the boundary and itself.
 
+🎮 **Live Demo**: [Play Snake Game](https://sanke-game.vercel.app)  
+Try out the game instantly in your browser without any setup!
 
 ## How to Play
 
@@ -42,4 +44,3 @@ You can contribute by solving the given issues or by creating new ones and solvi
 7. **Submit a pull request:** Finally, submit a pull request from your forked repository to the original repository. Ensure to provide a clear description of your changes in the pull request.
 
 Thank you for contributing!
-
